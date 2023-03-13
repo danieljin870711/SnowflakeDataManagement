@@ -1,2 +1,2 @@
-# Snow_flake_Data_Management
+# Snow flake Data Management
 Data management using Snowflake
