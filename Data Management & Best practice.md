@@ -17,15 +17,9 @@ In this project, I will demonstrate how to manage data warehouse as a role of ac
 
 - Data sampling
 
-- Scheduling tasks
-
-- Streams
-
 - Materialized views
 
-- Access Management 
-
-- Connecting to Power BI & Tableau
+- Data masking 
 
 
 ### Loading data
