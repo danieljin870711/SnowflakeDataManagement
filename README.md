@@ -35,9 +35,9 @@ In this project, I will load data from the public AWS S3 bucket into a data ware
 To do so, let's create a database and schema first. 
 
 ```http
-CREATE OR REPLACE DATABASE MANAGE_DB
+CREATE OR REPLACE DATABASE MANAGE_DB;
 
-CREATE OR REPLACE SCHEMA external_stages
+CREATE OR REPLACE SCHEMA external_stages;
 ```
 
 I am going to create aws_stage table in the stage schema location to extract files from the public AWS S3 bucket using the following credential. 
